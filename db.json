@@ -1,0 +1,8 @@
+{
+    "cardProducts": [
+    {"tittle":"Produk 1", "desc":"description produk 1", "stock":"50", "price": "$400"},
+    {"tittle":"Produk 1", "desc":"description produk 2", "stock":"50", "price": "$400"},
+    {"tittle":"Produk 1", "desc":"description produk 3", "stock":"50", "price": "$400"},
+    {"tittle":"Produk 1", "desc":"description produk 4", "stock":"50", "price": "$400"}
+    ]
+}
