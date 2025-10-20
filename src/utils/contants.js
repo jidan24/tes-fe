@@ -10,11 +10,3 @@ const cardProduct = [
 ]
 
 export { cardProduct };
-
-const dropDownItem = [
-    {tittle: "Produk 1"},
-    {tittle: "Produk 2"},
-    {tittle: "Produk 3"}
-]
-
-export { dropDownItem }
